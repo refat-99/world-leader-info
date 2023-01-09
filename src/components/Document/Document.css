@@ -1,0 +1,10 @@
+.document{
+    color: burlywood;
+}
+.card-perent{
+    margin-left: 70px;
+}
+.row{
+    --bs-gutter-x: 1.0 rem;
+    margin-left: 8%;
+}

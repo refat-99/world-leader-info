@@ -1,0 +1,102 @@
+[
+    {
+        "id": "01",
+        "img": "/images/mahatma-gandhi.jpg",
+        "name": "Mahatma Gandhi",
+        "age": "1869-1948",
+        "job": "Political leader",
+        "country": "india",
+        "proparty": "20000000"
+        
+        
+    },
+    {
+        "id": "02",
+        "img": "/images/nalsen-mendela.jpg",
+        "name": "Nelson Mandela",
+        "age": "1918-2013",
+        "job": "Political leader",
+        "country": "South Africa",
+        "proparty": "1200000"
+        
+        
+    },
+    {
+        "id": "03",
+        "img": "/images/Winston Churchill.jpg",
+        "name": "Winston Churchill",
+        "age": "1874-1965",
+        "job": "Political leader",
+        "country": "Britain",
+        "proparty": "50000000"
+        
+        
+    },
+    {
+        "id": "04",
+        "img": "/images/martin.jpg",
+        "name": "Martin Luther King",
+        "age": "1929-1968",
+        "job": "Political leader",
+        "country": "Americans",
+        "proparty": "3000000"
+        
+        
+    },
+    {
+        "id": "05",
+        "img": "/images/Abraham Lincoln.jpg",
+        "name": "Abraham Lincoln",
+        "age": "1809-1865",
+        "job": "Political leader",
+        "country": "United State",
+        "proparty": "90000000"
+        
+        
+    },
+    {
+        "id": "06",
+        "img": "/images/Mother Teresa.jpg",
+        "name": "Mother Teresa",
+        "age": "1910-1997",
+        "job": "Humankind",
+        "country": "Kosovo Albanians",
+        "proparty": "1400000"
+        
+        
+    },
+    {
+        "id": "07",
+        "img": "/images/napolean.jpg",
+        "name": "Napoleon Bonaparte",
+        "age": "1769-1821",
+        "job": "Military Leader",
+        "country": "France",
+        "proparty": "20500000"
+        
+        
+    },
+    {
+        "id": "08",
+        "img": "/images/george-washington.jpg",
+        "name": "George Washington",
+        "age": "1732- 1799",
+        "job": "Political leader",
+        "country": "USA",
+        "proparty": "970000000"
+        
+        
+    },
+    {
+        "id": "09",
+        "img": "/images/Dalai Lama.jpg",
+        "name": "Dalai Lama",
+        "age": "1935-prt",
+        "job": "Political leader",
+        "country": "China",
+        "proparty": "5000000"
+        
+        
+    }
+   
+]
